@@ -1,0 +1,12 @@
+{
+  "name": "project-setup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:topscores/project-setup.git",
+  "author": "Arnupharp Viratanapanu <arnupharp@larngeartech.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  }
+}
